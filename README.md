@@ -16,8 +16,8 @@ User Authentication: Secure user authentication system is integrated, providing 
 ## State Management with [Recoil](https://recoiljs.org/)
 
 Recoil is used for efficient state management in this project. It provides a robust and predictable way to handle global application state.
-
-[MDB Bootstrap](https://mdbootstrap.com/docs/react/): A stylish and feature-rich UI framework based on Bootstrap, ensuring a professional look and feel for your application.
+## UI with [MDB Bootstrap](https://mdbootstrap.com/docs/react/)
+A stylish and feature-rich UI framework based on Bootstrap, ensuring a professional look and feel for your application.
 
 # Getting Started
 1. Clone the repository:
