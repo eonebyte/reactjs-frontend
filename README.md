@@ -39,9 +39,9 @@ The authentication system in this template is pre-configured for you. You can ea
 Feel free to modify and extend this template to suit your project's specific requirements. You can add new components, routes, and functionality as needed.
 
 # Credits
-[ReactJS](https://react.dev/)
-[ViteJS](https://vitejs.dev/)
-[MDB Bootstrap](https://mdbootstrap.com/docs/react/)
+- [ReactJS](https://react.dev/)
+- [ViteJS](https://vitejs.dev/)
+- [MDB Bootstrap](https://mdbootstrap.com/docs/react/)
 
 # License
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
