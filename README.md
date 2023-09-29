@@ -2,7 +2,7 @@
 
 This repository contains a client-side template for a ReactJS-based web application, complete with user authentication. It leverages the power of ReactJS and ViteJS as the build tool, along with the user-friendly UI components provided by MDB Bootstrap.
 
-# Features
+# Technologies
 React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -13,7 +13,11 @@ Currently, two official plugins are available:
 
 User Authentication: Secure user authentication system is integrated, providing a foundation for user management.
 
-MDB Bootstrap: A stylish and feature-rich UI framework based on Bootstrap, ensuring a professional look and feel for your application.
+## State Management with [Recoil](https://recoiljs.org/)
+
+Recoil is used for efficient state management in this project. It provides a robust and predictable way to handle global application state.
+
+[MDB Bootstrap](https://mdbootstrap.com/docs/react/): A stylish and feature-rich UI framework based on Bootstrap, ensuring a professional look and feel for your application.
 
 # Getting Started
 1. Clone the repository:
@@ -41,6 +45,7 @@ Feel free to modify and extend this template to suit your project's specific req
 # Credits
 - [ReactJS](https://react.dev/)
 - [ViteJS](https://vitejs.dev/)
+- [RecoilJS](https://recoiljs.org/)
 - [MDB Bootstrap](https://mdbootstrap.com/docs/react/)
 
 # License
