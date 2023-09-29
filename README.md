@@ -3,7 +3,7 @@
 This repository contains a client-side template for a ReactJS-based web application, complete with user authentication. It leverages the power of ReactJS and ViteJS as the build tool, along with the user-friendly UI components provided by MDB Bootstrap.
 
 # Technologies
-React + Vite
+## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
